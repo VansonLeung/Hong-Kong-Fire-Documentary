@@ -52,11 +52,11 @@
 
 ### （B）引用內容聲明
 
-本資料庫中引用之**新聞報道、影片、圖片及外部來源內容**，其著作權**皆屬原作者所有**。本資料庫僅作**非商業性公共利益之資料整理與保存**，並遵循合理使用原則（Fair Use）及公共利益目的。
+本資料庫中引用之**新聞報道、影片、圖片及外部來源內容**，其著作權**皆屬原作者所有**。本資料庫僅作**非商業性公共利益之資料整理與保存**，並根據香港特區版權條例(Cap 528) ，遵循「公平處理作品（Fair Dealing）」及公共利益目的。
 
 #### 適用範圍
 
-以下目錄及內容屬於引用或彙整之外部來源，**不受本資料庫授權涵蓋**：
+以下目錄及內容屬於引用或彙整之外部來源，**不受本資料庫原創內容授權涵蓋**：
 
 - `/news/` - 新聞報道及媒體文章
 - `/videos/` - 影片紀錄及多媒體內容
@@ -64,9 +64,11 @@
 - `/docs/meeting_minutes/pdf/` - 官方文件（PDF 原檔）
 - 所有標註有外部來源網址或出處的內容
 
+**特別說明**：若貢獻者親自拍攝或錄製之媒體首次於本庫發佈，且已確認擁有完整版權並願以 CC BY-SA 4.0 授權，請在內容描述或 README 中明確標註「Original Contributor Upload」及作者資訊，以便辨識。此類媒體即視為原創內容並受第（A）節規範；若無明確標註，預設仍依本節視為引用內容。
+
 #### 版權聲明
 
-- 所有引用內容之版權歸原始發佈者、媒體機構、攝影師、錄影者或文件發行單位所有
+- 所有引用內容之版權歸原始發佈者、媒體機構、攝影師、錄影者或文件發行單位（或其他依法擁有版權的人士或組織）所有
 - 本資料庫收錄該等內容僅供**研究、教育、存檔及公共利益**之用途
 - 引用內容遵循**合理使用**原則，並已盡力標註來源及收集時間
 - 使用者如需引用或轉載這些內容，應自行聯繫原版權持有人並取得授權
@@ -100,21 +102,21 @@
 
 This repository uses a dual licensing model, depending on the nature of the content:
 
-### (A) Original Content License
+### (A) Original Content Licensing
 
-**Original content** created for this repository, including organization, text, classification, and analysis, is licensed under **[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) (Creative Commons Attribution-ShareAlike 4.0 International)**.
+**Original content** created for this repository, including curation, documentation, classification, and analyses, is licensed under **[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) (Creative Commons Attribution-ShareAlike 4.0 International)**.
 
 #### Scope of Application
 
 The following directories and content are considered original works, protected under CC BY-SA 4.0:
 
-- `/timeline/` - Timeline organization and arrangement
-- `/analysis/` - Technical analyses, research reports, and commentary
-- `/support/` - Volunteer and community support information organization
-- `/residents/` - Resident-related information organization
+- `/timeline/` - Curation and arrangement of timeline events
+- `/analysis/` - Technical analyses, research reports, and commentaries
+- `/support/` - Curation of volunteer and community support information
+- `/residents/` - Curation of resident-related information
 - `README.md`, `README.en.md`, and other documentation files
 - Data classification, indexing structure, and overall repository architecture
-- All analysis, summaries, annotations, and commentary text written by contributors
+- All analyses, summaries, annotations, and commentaries written by contributors
 
 #### Terms of Use
 
@@ -142,25 +144,27 @@ License: CC BY-SA 4.0
 
 ---
 
-### (B) Quoted Content Declaration
+### (B) Declaration of Quoted Content
 
-**News articles, videos, photos, and external source content** quoted in this repository remain under the **copyright of their original authors**. This repository serves only as a **non-commercial public interest archive and organization**, following fair use principles and public interest purposes.
+**News articles, videos, photos, and external source content** quoted in this repository remain under the **copyright of their original authors**. This repository serves only as a **non-commercial public interest archive and curation**, operated in accordance with the **Hong Kong SAR Copyright Ordinance (Cap. 528)** under its *fair dealing* provisions (and equivalent public-interest doctrines) for research, reporting, education, and documentation.
 
 #### Scope of Application
 
-The following directories and content are quoted or aggregated from external sources and are **not covered by this repository's license**:
+The following directories and content are quoted or aggregated from external sources and are **not covered by this repository's Original Content Licensing**:
 
 - `/news/` - News reports and media articles
 - `/videos/` - Video footage and multimedia content
-- `/photos/` - On-site photos and image records
+- `/photos/` - On-site photos and imagery records
 - `/docs/meeting_minutes/pdf/` - Official documents (original PDF files)
 - All content marked with external source URLs or attributions
 
+**Special Note:** If a contributor personally captured media (e.g., photos or videos) that debuts in this repository, confirms full copyright ownership, and opts into CC BY-SA 4.0, please annotate the file description or README with “Original Contributor Upload” plus the author details. Such media will then be treated as Original Content under Section (A). Without explicit annotation, the default treatment follows this Section (B) as quoted content.
+
 #### Copyright Notice
 
-- Copyright of all quoted content belongs to the original publishers, media organizations, photographers, videographers, or document issuers
+- Copyright of all quoted content belongs to the original publishers, media organizations, photographers, videographers, document issuers, or any other parties lawfully holding the rights
 - This repository includes such content solely for **research, education, archival, and public interest purposes**
-- Quoted content follows **fair use** principles and sources are attributed with collection times wherever possible
+- Quoted content follows **fair dealing** principles under Hong Kong SAR Copyright Ordinance (Cap. 528), as well as broader fair-use best practices, and sources are attributed with collection times wherever possible
 - Users wishing to quote or republish this content should contact the original copyright holders for permission
 
 #### Content Removal Requests
@@ -169,7 +173,7 @@ If you are the copyright holder of relevant content and believe that its inclusi
 
 ---
 
-### Contributor License Agreement
+### License Agreement by Contributors
 
 By submitting a Pull Request or contributing content to this repository, you agree that:
 
