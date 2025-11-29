@@ -2,6 +2,9 @@
 
 [English Version](#english-version)
 
+請注意，當條款的中文版本與英文版本之間出現偏差或不一致時，應以英文版本為準。
+
+Please note that the English version shall prevail in case of discrepancy or inconsistency between the English version and the Chinese translation of the license.
 ---
 
 ## 中文版本
@@ -52,7 +55,7 @@
 
 ### （B）引用內容聲明
 
-本資料庫中引用之**新聞報道、影片、圖片及外部來源內容**，其著作權**皆屬原作者所有**。本資料庫僅作**非商業性公共利益之資料整理與保存**，並根據香港特區版權條例(Cap 528) ，遵循「公平處理作品（Fair Dealing）」及公共利益目的。
+本資料庫中引用之**新聞報道、影片、圖片及外部來源內容**，其著作權**皆屬原作者所有**。本資料庫僅作**非商業性公共利益之資料整理與保存**，並根據香港特區版權條例(Cap 528) ，遵循「公平處理作品（Fair Dealing of Works）」及公共利益目的。
 
 #### 適用範圍
 
@@ -70,7 +73,7 @@
 
 - 所有引用內容之版權歸原始發佈者、媒體機構、攝影師、錄影者或文件發行單位（或其他依法擁有版權的人士或組織）所有
 - 本資料庫收錄該等內容僅供**研究、教育、存檔及公共利益**之用途
-- 引用內容遵循**合理使用**原則，並已盡力標註來源及收集時間
+- 引用內容遵循香港特區版權條例 (Cap. 528) 下的**「公平處理作品」**原則，以及普通「合理使用」的最佳做法，並已盡力標註來源及收集時間
 - 使用者如需引用或轉載這些內容，應自行聯繫原版權持有人並取得授權
 
 #### 內容移除請求
@@ -84,7 +87,7 @@
 當您向本資料庫提交 Pull Request 或貢獻內容時，即表示您同意：
 
 1. 您所提交的**原創內容**將以 **CC BY-SA 4.0** 授權釋出
-2. 您所提交的**引用或外部來源內容**已清楚標註出處，並符合合理使用原則
+2. 您所提交的**引用或外部來源內容**已清楚標註出處，並符合「公平處理作品」原則
 3. 您擁有提交內容的合法權利，或已取得適當授權
 4. 您的貢獻不侵犯任何第三方的版權、商標或其他知識產權
 
@@ -162,7 +165,7 @@ The following directories and content are quoted or aggregated from external sou
 
 #### Copyright Notice
 
-- Copyright of all quoted content belongs to the original publishers, media organizations, photographers, videographers, document issuers, or any other parties lawfully holding the rights
+- Copyright of all quoted content belongs to the original publishers, media organizations, photographers, videographers, document issuers, or any other parties lawfully holding copyright
 - This repository includes such content solely for **research, education, archival, and public interest purposes**
 - Quoted content follows **fair dealing** principles under Hong Kong SAR Copyright Ordinance (Cap. 528), as well as broader fair-use best practices, and sources are attributed with collection times wherever possible
 - Users wishing to quote or republish this content should contact the original copyright holders for permission
@@ -178,7 +181,7 @@ If you are the copyright holder of relevant content and believe that its inclusi
 By submitting a Pull Request or contributing content to this repository, you agree that:
 
 1. Your **original contributions** will be released under the **CC BY-SA 4.0** license
-2. Any **quoted or external source content** you submit is clearly attributed and complies with fair use principles
+2. Any **quoted or external source content** you submit is clearly attributed and complies with fair dealing principles
 3. You have the legal right to submit the content or have obtained appropriate authorization
 4. Your contributions do not infringe any third party's copyright, trademark, or other intellectual property rights
 
