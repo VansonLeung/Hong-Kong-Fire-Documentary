@@ -1,6 +1,8 @@
 import requests
 from datetime import datetime
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, XMLParsedAsHTMLWarning
+import warnings
+warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
 
 
 def scrape(): 
