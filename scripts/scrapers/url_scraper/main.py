@@ -59,8 +59,6 @@ def main():
     print(f"Found {len(scrapers)} scrapers. Starting scrape...")
 
     for scraper in scrapers:
-        if scraper.__name__ != 'scrapers.scrape_bbc_chinese': 
-            continue
         try:
             if hasattr(scraper, "scrape"):
                 print(f"Running {scraper.__name__}...")
